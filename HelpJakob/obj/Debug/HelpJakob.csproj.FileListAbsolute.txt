@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\HelpJakob\HelpJakob\bin\Debug\HelpJakob.exe.config
+C:\Users\alex303a\source\repos\HelpJakob\HelpJakob\bin\Debug\HelpJakob.exe
+C:\Users\alex303a\source\repos\HelpJakob\HelpJakob\bin\Debug\HelpJakob.pdb
+C:\Users\alex303a\source\repos\HelpJakob\HelpJakob\obj\Debug\HelpJakob.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\HelpJakob\HelpJakob\obj\Debug\HelpJakob.exe
+C:\Users\alex303a\source\repos\HelpJakob\HelpJakob\obj\Debug\HelpJakob.pdb
